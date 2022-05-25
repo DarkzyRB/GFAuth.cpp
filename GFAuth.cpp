@@ -85,8 +85,6 @@ public:
 		}
 
 		curl_global_cleanup();
-
-
 	}
 };
 
